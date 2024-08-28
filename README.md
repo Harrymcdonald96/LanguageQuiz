@@ -11,7 +11,7 @@
 
 # Overview
 
-This programming quiz app offers a comprehensive testing environment across multiple programming languages including Python, HTML, JavaScript, CSS, and MySQL. Each category features questions at three difficulty levels: Easy, Medium, and Hard. The application utilizes a console-based interface to interact with users, presenting questions, capturing responses, and providing real-time feedback.
+This programming quiz app offers a comprehensive testing environment across multiple programming languages including Python, HTML, JavaScript, CSS, and MySQL. Each category features questions at three difficulty levels: Easy, Medium, and Hard. The application utilises a console-based interface to interact with users, presenting questions, capturing responses, and providing real-time feedback.
 
 # Features
 
